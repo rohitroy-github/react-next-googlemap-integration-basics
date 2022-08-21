@@ -1,9 +1,15 @@
+Hey, this is a <b>REACT+NEXT</b> project to learn and integrate <b>Google-Maps</b> in a <b>website</b> using <b>API</b> call. 
+<br />
+This project is still in <b>Development Phase</b> </>
+<br />
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
-
+a
 ```bash
 npm run dev
 # or
