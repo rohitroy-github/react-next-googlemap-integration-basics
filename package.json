@@ -24,5 +24,18 @@
     "eslint": "8.22.0",
     "eslint-config-next": "12.2.5",
     "typescript": "4.7.4"
-  }
+  },
+  "description": "Hey, this is a <b>REACT+NEXT</b> project to learn and integrate <b>Google-Maps</b> in a <b>website</b> using <b>API</b> call.  <br /> This project is still in <b>Development Phase</b> </> <br />",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitroy-github/react-next-googlemap-integration-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitroy-github/react-next-googlemap-integration-basics/issues"
+  },
+  "homepage": "https://github.com/rohitroy-github/react-next-googlemap-integration-basics#readme"
 }
